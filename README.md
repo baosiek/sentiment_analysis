@@ -1,2 +1,2 @@
 # sentiment_analysis
-This is a naive sentiment analysis implementation in Python based on a feed forward neural net
+This is a transfer learning sentiment analysis implementation in tensorflow/keras with BERT pre-trained.
